@@ -9,3 +9,7 @@ Below is a list of basic terminology to better understand the program:
 - Itemset: A group of items.
 - Minimum Support Threshold: An arbritary number the support must equal or surpass for the item to be called frequent.
 - Support: The number of times an item appears in the data set.
+
+Files: 
+- AprioriAlgorithm.cpp: The source file.
+- Data.txt: Example data file, with the first number in every row representing the number of points in the given row.
